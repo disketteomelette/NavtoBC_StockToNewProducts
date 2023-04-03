@@ -5,7 +5,7 @@
 # * FLISTADO: Nombre del archivo CSV que incluye el listado preparado para Navision. Ejemplo de formato:
 # 
 #             PERF00001;MONTANTE 70X40X3500 MM;;;PERFILES S.L.;PRO0000831;;M;INVENTARIO ;MERCADERIA 
-#             ;;FIFO;99,77;MERCADERIA;AIIM00015;IVA21;;COMPRA;PERFILERIA PYL;
+#             ;;FIFO;99,77;MERCADERIA;AIIM00015;IVA21;;COMPRA;PERFILES;
 #
 # * FEXISTENCIAS: Nombre del archivo CSV exportado de "diario inventario" donde con anterioridad a usar este programa, 
 #                 se han eliminado todas las columnas a excepción de código antiguo de Nav y las cantidades que figuran 
